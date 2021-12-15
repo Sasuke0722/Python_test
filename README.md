@@ -1,5 +1,4 @@
 # Python_test
-札瓦魯多
 # Python程式設計
 ## Python程式設計練習用GitHub專案
 * 學號: 410715936
